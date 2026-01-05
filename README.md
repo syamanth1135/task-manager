@@ -120,7 +120,7 @@ Advanced filtering and search
 
 👤 Author
 Singamsetti Syamanth Uma Sai Kiran
-B.Tech Student | Frontend Developer
+B.Tech Student | Frontend Developer | UIUX DESIGNER
 
 ✅ Assignment Checklist
 UI matches the provided mock-up
